@@ -1,13 +1,20 @@
-<h2>Hi 👋, I'm Belkacem !</h2>
-<img align='right' src="https://i.pinimg.com/originals/27/8e/8a/278e8ae3944af5e4640a96b0961a1b15.gif" width="240" alt="eren">
+<h1 align="center">  こんにちは 👋, 私は Belkacemです！</h1>
+<p align="center">
+<img src="https://data.whicdn.com/images/292830193/original.gif" width="700" height="350" />
+</p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/belkacember/">
+<img src="https://img.shields.io/badge/-belkacember-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belkacember/"/>
+</a>
+<img src="https://img.shields.io/github/followers/kacemws?label=Follow&style=social"/>
+</p>
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=kacemws&label=Profile%20views&color=0e75b6&style=flat" alt="kacemws" />
+</p>
 
-[
-![Linkedin: belkacember](https://img.shields.io/badge/-belkacember-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belkacember/)](https://www.linkedin.com/in/belkacember/)
+---
 
-![GitHub followers](https://img.shields.io/github/followers/kacemws?label=Follow&style=social)
-
-<img src="https://komarev.com/ghpvc/?username=kacemws&label=Profile%20views&color=0e75b6&style=flat" alt="kacemws" />
 
 ### A little more about me...  
 - Lead React dev at <strong><em>NEO</em></strong>
@@ -27,14 +34,17 @@
 
 **🐱 My Github Stats** 
 
-<p>
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kacemws&theme=dracula" alt="kacemws" /></a>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=kacemws&show_icons=true&theme=tokyonight&ocale=en" alt="kacemws" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kacemws&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kacemws" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kacemws&show_icons=true&theme=tokyonight&ocale=en" alt="kacemws" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kacemws&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="kacemws" /></p>
+
+<p align="center">
+<img src="https://metrics.lecoq.io/kacemws?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Africa%2FAlgiers&config.animated=true)"/>
+</p>
 
 
-![Metrics](https://metrics.lecoq.io/kacemws?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Africa%2FAlgiers&config.animated=true)
 
 <!--END_SECTION:waka-->
 
