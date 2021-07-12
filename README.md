@@ -19,15 +19,19 @@
 
 ### A little more about me...  
 - Lead React dev at <strong><em>NEO</em></strong>
-- 🌱 I’m currently learning **TypeScript** by practicing !
+- 🌱 I’m currently learning **Next** by practicing !
 
-- 🤝 Currently working on a **Midlight, Pusher and Noteet**
+- 🤝 Currently working on a **Design system, a weather app that showcases neat transitions and a cool dashboard**
 
 - 👨‍💻 Some of my projects are available at [www.belkacember.com](https://belkacember.com)
 
-- 💬 Ask me about **react** (html / scss / js)**, node, flutter or attack on titan**
+- :grey_question: Ask me about **react** (html / scss / js / ts)**, node, flutter or attack on titan**
 
- - <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>Say hi ! </b> **me@belkacember.com**
+- :new: my latest piece of work : https://mykio-landing.vercel.app/ && https://kiostore.net/
+
+- 💬 Contact me if you want to get yourself (or learn how to create) a **Landing / web app with cool and slick animations**
+
+ - :point_right: <b>Say hi ! </b> **me@belkacember.com**
 
 
 ---
